@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Release date:"; ObjectID = "0Ua-oV-lTu"; */
+"0Ua-oV-lTu.text" = "Release date:";
+
+/* Class = "UINavigationItem"; title = "Simple Record"; ObjectID = "2eG-Lp-nf8"; */
+"2eG-Lp-nf8.title" = "Simple Record";
+
+/* Class = "UILabel"; text = "Title:"; ObjectID = "2px-0w-2zF"; */
+"2px-0w-2zF.text" = "Title:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "3lr-CX-PYg"; */
+"3lr-CX-PYg.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "iCloud account not found"; ObjectID = "6l1-Rm-Ujd"; */
+"6l1-Rm-Ujd.text" = "iCloud account not found";
+
+/* Class = "UILabel"; text = "All Records"; ObjectID = "7Fs-A4-Uhd"; */
+"7Fs-A4-Uhd.text" = "All Records";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "7GY-GS-lla"; */
+"7GY-GS-lla.normalTitle" = "Subscribe";
+
+/* Class = "UITextField"; placeholder = "Movie Title"; ObjectID = "CHe-k3-Qb8"; */
+"CHe-k3-Qb8.placeholder" = "Movie Title";
+
+/* Class = "UITabBarItem"; title = "Notifications"; ObjectID = "Czx-Ng-hvT"; */
+"Czx-Ng-hvT.title" = "Notifications";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "J1I-pK-ISz"; */
+"J1I-pK-ISz.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "Lcp-Vc-Dhe"; */
+"Lcp-Vc-Dhe.text" = "Name:";
+
+/* Class = "UITabBarItem"; title = "Query"; ObjectID = "PO1-0f-FGR"; */
+"PO1-0f-FGR.title" = "Query";
+
+/* Class = "UILabel"; text = "Rating:"; ObjectID = "Qy0-09-cXf"; */
+"Qy0-09-cXf.text" = "Rating:";
+
+/* Class = "UILabel"; text = "(not set)"; ObjectID = "ShP-ER-qMT"; */
+"ShP-ER-qMT.text" = "(not set)";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "Tnm-rB-gcz"; */
+"Tnm-rB-gcz.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Search by location"; ObjectID = "WJf-oQ-szP"; */
+"WJf-oQ-szP.text" = "Search by location";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "YsL-EK-h0z"; */
+"YsL-EK-h0z.normalTitle" = "Log In";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ak7-zU-eJU"; */
+"ak7-zU-eJU.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "ex: New York"; ObjectID = "bfw-x1-MRW"; */
+"bfw-x1-MRW.placeholder" = "ex: New York";
+
+/* Class = "UINavigationItem"; title = "Query"; ObjectID = "eDH-1l-cHl"; */
+"eDH-1l-cHl.title" = "Query";
+
+/* Class = "UITabBarItem"; title = "Record"; ObjectID = "fRU-rx-tDp"; */
+"fRU-rx-tDp.title" = "Record";
+
+/* Class = "UILabel"; text = "User ID:"; ObjectID = "frr-dj-YCu"; */
+"frr-dj-YCu.text" = "User ID:";
+
+/* Class = "UILabel"; text = "Be notified when new movies are registered"; ObjectID = "kX4-mp-mc6"; */
+"kX4-mp-mc6.text" = "Be notified when new movies are registered";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "kgt-ya-eYu"; */
+"kgt-ya-eYu.title" = "Notifications";
+
+/* Class = "UILabel"; text = "(not set)"; ObjectID = "lvb-Sp-0Nq"; */
+"lvb-Sp-0Nq.text" = "(not set)";
+
+/* Class = "UITabBarItem"; title = "User"; ObjectID = "m3e-1S-vup"; */
+"m3e-1S-vup.title" = "User";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "nNM-pS-fNd"; */
+"nNM-pS-fNd.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "omC-Eb-han"; */
+"omC-Eb-han.text" = "Location:";
+
+/* Class = "UITextField"; placeholder = "YYYY-MM-DD"; ObjectID = "p1x-jW-F2A"; */
+"p1x-jW-F2A.placeholder" = "YYYY-MM-DD";
+
+/* Class = "UILabel"; text = "Search by title"; ObjectID = "rTR-dC-9Bg"; */
+"rTR-dC-9Bg.text" = "Search by title";
+
+/* Class = "UINavigationItem"; title = "iCloud User"; ObjectID = "u5Q-wu-pWY"; */
+"u5Q-wu-pWY.title" = "iCloud User";
